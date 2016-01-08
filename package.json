@@ -36,7 +36,7 @@
     "dotenv"
   ],
   "dependencies": {
-    "dotenv": "^1.0.0",
+    "dotenv": "adjohnson916/dotenv#adjohnson916",
     "exists-sync": "0.0.3"
   },
   "ember-addon": {
